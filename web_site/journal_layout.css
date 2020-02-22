@@ -6,9 +6,11 @@ body{
 	background: white;
 	margin-left: 10%;
 	margin-right: 10%;
+
 }
 .header{
 	border: 5px solid red;
+	overflow: hidden;
 }
 .header h2 {
 	border: 5px solid orange;
@@ -21,4 +23,19 @@ body{
 }
 .body span{
 	border: 5px solid purple;
+}
+.header h1{
+	float:right;
+}
+.header div{
+	overflow: hidden;
+}
+.header h2{
+	text-align: right;
+}
+.body img{
+	float:right;
+}
+.body{
+	overflow: hidden;
 }
