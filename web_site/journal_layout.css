@@ -2,27 +2,27 @@ body{
 	background-image: url(https://courses.cs.washington.edu/courses/cse190m/12sp/labs/2/images/background.gif);
 }
 .container{
-	border: 5px solid green;
+	border: 10px solid white;
 	background: white;
 	margin-left: 10%;
 	margin-right: 10%;
 
 }
 .header{
-	border: 5px solid red;
+	background: #A8F0F0;
 	overflow: hidden;
 }
 .header h2 {
-	border: 5px solid orange;
+	font-size: 14pt;
 }
 .container .body{
-	border: 5px solid blue;
+	border: 4px solid #C2E9E9;
 	background: #E8FBFB;
 	padding: 5px;
 	margin: 5px 0 0 0;
 }
 .body span{
-	border: 5px solid purple;
+	border-bottom: 2px dashed #009097;
 }
 .header h1{
 	float:right;
