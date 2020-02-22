@@ -1,0 +1,15 @@
+.container{
+	border: 5px solid green;
+}
+.header{
+	border: 5px solid red;
+}
+.header h2 {
+	border: 5px solid orange;
+}
+.container .body{
+	border: 5px solid blue;
+}
+.body span{
+	border: 5px solid purple;
+}
