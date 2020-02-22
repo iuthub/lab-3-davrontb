@@ -1,5 +1,11 @@
+body{
+	background-image: url(https://courses.cs.washington.edu/courses/cse190m/12sp/labs/2/images/background.gif);
+}
 .container{
 	border: 5px solid green;
+	background: white;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 .header{
 	border: 5px solid red;
@@ -9,6 +15,9 @@
 }
 .container .body{
 	border: 5px solid blue;
+	background: #E8FBFB;
+	padding: 5px;
+	margin: 5px 0 0 0;
 }
 .body span{
 	border: 5px solid purple;
